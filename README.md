@@ -1,5 +1,7 @@
 # Tensorflow Study Example
 
+내 TF 예제 ㅎㅎ
+
 # Version Info
 * Python3.6
 * Tensorflow1.10
