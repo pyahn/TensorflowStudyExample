@@ -1,6 +1,6 @@
 # Tensorflow Study Example
 이제내껏
-까꿍
+
 # Version Info
 * Python3.6
 * Tensorflow1.10
