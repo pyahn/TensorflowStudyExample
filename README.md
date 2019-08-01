@@ -1,6 +1,7 @@
 # Tensorflow Study Example
 
-내 TF 예제 ㅎㅎ - 내꺼
+내 TF 예제 ㅎㅎ - 내꺼ㅇㄴㄹㅇㄴㄹ
+안흭
 
 # Version Info
 * Python3.6
