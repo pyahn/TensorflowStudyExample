@@ -1,5 +1,6 @@
 # Tensorflow Study Example
-ÀÌÁ¦ ³»²¯!!
+ì´ì œë‚´ê»
+ê¹Œê¿
 # Version Info
 * Python3.6
 * Tensorflow1.10
