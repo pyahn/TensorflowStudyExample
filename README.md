@@ -1,6 +1,6 @@
 # Tensorflow Study Example
 
-내 TF 예제 ㅎㅎ - 내꺼
+안희국
 
 # Version Info
 * Python3.6
